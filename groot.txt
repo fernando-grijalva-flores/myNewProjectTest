@@ -6,3 +6,5 @@ test to verify if marks competing commit error
 
 
 test new
+
+test of fetch function
